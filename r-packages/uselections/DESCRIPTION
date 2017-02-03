@@ -7,18 +7,5 @@ Authors@R: person("Scott", "Came", email = "scottcame10@gmail.com",
                   role = c("aut", "cre"))
 Description: Provides data on US Elections
 License: GNU General Public License version 3 (GPL-3.0)
-Imports:
-  dplyr,
-  tidyr,
-  rvest,
-  rgdal,
-  rgeos,
-  sp,
-  readr,
-  stringr,
-  openxlsx,
-  ggplot2,
-  scales,
-  ggthemes
 LazyData: TRUE
 RoxygenNote: 5.0.1
